@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Javascript程式設計，使用react</h1>
-      <h2>五專資工三甲 5B0G0021 林克</h2>
+      <h2>五專資工三甲,5B0G0021,林克</h2>
       <h3>第一個元件</h3>
       <span>R: </span><MySlider />
       <span>G: </span><MySlider />
