@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
-import MySlider from "./MySlider";
+import MyRGBPanel from "./components/MyRGBPanel";
+import MySlider from "./components/MySlider";
 
 function App() {
   return (
