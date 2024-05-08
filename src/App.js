@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import MySlider from "./components/MySlider";
+import MySlider from "./MySlider";
 
 function App() {
   return (
