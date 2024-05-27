@@ -37,12 +37,12 @@
 }
 
 .btn-action {
-    background-color: brown;
-    color: bisque;
+    background-color: rgb(192, 118, 118);
+    color: rgb(201, 168, 127);
 }
 
 .btn-operator {
-    background-color: coral;
+    background-color: rgb(223, 84, 34);
 }
 
 .btn-0 {
@@ -51,12 +51,12 @@
 }
 
 .btn:hover{
-    background-color: white;
+    background-color: rgb(229, 153, 153);
     color: black;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
 }
 
 .btn:active{
-    background-color: darkred;
+    background-color: rgb(168, 45, 45);
     color: white;
 }
